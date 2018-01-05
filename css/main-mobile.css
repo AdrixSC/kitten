@@ -1,0 +1,23 @@
+
+
+@media (max-width: 868px) {
+  .background {
+    background-image: url("../assets/images/dawn.png");
+  }
+
+  .kitten {
+    background-image: url("../assets/images/kitten-large.png");
+
+  }
+}
+
+@media (max-width: 568px) {
+  .background {
+    background-image: url("../assets/images/night.jpg");
+  }
+
+  .kitten {
+    background-image: url("../assets/images/kitten-small.png");
+
+  }
+}
